@@ -6,6 +6,9 @@
 
 ### Papers
 
+- ### [Chart Mining: A Survey of Methods for Automated Chart Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9085944)
+  - 2021 
+
 
 - ### [A Survey of Scholarly Data Visualization](https://ieeexplore.ieee.org/abstract/document/8314667)
   - 2018
@@ -42,3 +45,25 @@ Interaction is fundamental to data visualization, but what “interaction” mea
    - 1996
    - Abstract:
 We describe a technique for choosing multiple colours for use during data visualization. Our goal is a systematic method for maximizing the total number of colours available for use, while still allowing an observer to rapidly and accurately search a display for any one of the given colours. Previous research suggests that we need to consider three separate effects during colour selection: colour distance, linear separation, and colour category. We describe a simple method for measuring and controlling all of these effects. Our method was tested by performing a set of target identification studies; we analysed the ability of thirty eight observers to find a colour target in displays that contained differently coloured background elements. Results showed our method can be used to select a group of colours that will provide good differentiation between data elements during data visualization.
+
+
+
+
+---
+
+### Art-work
+
+- [Google Arts & Culture](https://artsexperiments.withgoogle.com/tsnemap/#11848.03,4663.59,11857.23,1206.97,242.11,432.74)
+
+- [Embedding Projector](https://projector.tensorflow.org/)
+
+
+- [Visualizing TSNE Maps with Three.js](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
+
+
+
+-----
+
+### Machine Learning
+
+- [Zero-shot-image-classification](https://huggingface.co/docs/transformers/en/tasks/zero_shot_image_classification)
